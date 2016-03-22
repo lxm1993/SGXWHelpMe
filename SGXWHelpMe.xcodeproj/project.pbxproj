@@ -1182,6 +1182,7 @@
 				TargetAttributes = {
 					1C4C3C201C8945660018D819 = {
 						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = TUX63H4XEY;
 					};
 					1C4C3C391C8945660018D819 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -1539,8 +1540,8 @@
 			baseConfigurationReference = 92D739F7D208CFA9D1E6C921 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Sogou Technology Development Co., Ltd.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Sogou Technology Development Co., Ltd.";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1579,8 +1580,8 @@
 			baseConfigurationReference = BC9DE4073F75EE7F76688BE0 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Sogou Technology Development Co., Ltd.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Sogou Technology Development Co., Ltd.";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
