@@ -492,6 +492,7 @@
 		1C4C3C231C8945660018D819 /* SGXWHelpMe */ = {
 			isa = PBXGroup;
 			children = (
+				1CCB0A8B1CA1520A00C32826 /* bulid */,
 				1C4C3C491C8945AE0018D819 /* Classes */,
 				1C4C3C271C8945660018D819 /* AppDelegate.h */,
 				1C4C3C281C8945660018D819 /* AppDelegate.m */,
@@ -1105,6 +1106,13 @@
 				1CAEB1781C9C072900647F82 /* VoiceSearchFeedback020@2x.png */,
 			);
 			path = voiceImage;
+			sourceTree = "<group>";
+		};
+		1CCB0A8B1CA1520A00C32826 /* bulid */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = bulid;
 			sourceTree = "<group>";
 		};
 		411EEAE4E4457E6AE29232F9 /* Frameworks */ = {
